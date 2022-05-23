@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Organization",
+  "name": "Infusai Solutions Pvt Ltd",
+  "subjectOf": {
+    "@type": "Organization",
+    "legalname": "Infusai Solution Private Limited",
+    "url": "https://infusai.com/",
+    "logo": "https://infusai.com/assets/images/infusai-logo.svg",
+    "description": "Infusai is a lead software development & IT consulting service provider. We design, build, implement and support AI driven intelligent Software applications , Enterprise level CRM & ERP solutions.",
+    "telephone": "91-99754-77250",
+    "areaServed": "India, Singapore, Australia, USA, Canada, Thailand, Europe, New Zealand",
+    "founder": "Ashish Gupta, Manoj Dani",
+    "email": "mailto:info@infusai.com",
+    "brand": "Microsoft, Salesforce, Servicenow, Nanonets, Google, AWS, Force",
+    "address": {
+	"@type": "PostalAddress",
+	"addressLocality": "Mumbai",
+	"addressRegion": "India",
+	"postalCode": "400079",
+	"streetAddress": "91Springboard Business Hub Pvt. Ltd. Godrej & Boyce, Gate No. 2, Plant No. 6, LBS Marg, Opp. Vikhroli Bus Depot, Vikhroli (West), Mumbai 400079"	
+	},
+	"sameAs": [
+    "https://www.facebook.com/infusai",
+    "https://in.linkedin.com/company/infusai",
+    "https://www.youtube.com/channel/UC5tTGszwvO7LAtvIyg0wkMA/about?view_as=subscriber",
+    "https://infusdynamics.com/"
+  ]
+  }
+}
