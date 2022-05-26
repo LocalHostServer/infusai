@@ -148,6 +148,10 @@ p {
     line-height: 1.7
 }
 
+.navbar{
+    box-shadow: none !important;
+}
+
 .lead {
     font-weight: 400;
     font-size: 16px;
