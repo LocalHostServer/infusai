@@ -123,7 +123,7 @@ document.write("					<li><a href=\"https:\/\/blog.infusai.com\/blogs\/\" target=
 document.write("					<li><a href=\"https:\/\/blog.infusai.com\/news\/\" target=\"_blank\">News &amp; Events<\/a><\/li>");
 document.write("					<li><a href=\"https:\/\/blog.infusai.com\/casestudies\/\" target=\"_blank\">Case Studies<\/a><\/li>");
 // document.write("					<li><a href=\"..\/microsoft-hub\/\">Microsoft Hub<\/a><\/li>");
-document.write("					<li><a href=\"..\/salesforce-hub\/\">Salesforce Hub<\/a><\/li>");
+// document.write("					<li><a href=\"..\/salesforce-hub\/\">Salesforce Hub<\/a><\/li>");
 document.write("				  <\/ul>");
 document.write("                <\/li>");
 document.write("				");
