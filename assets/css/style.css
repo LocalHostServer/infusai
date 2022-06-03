@@ -1935,7 +1935,7 @@ a.home-title {
     font-weight: 500 !important;
     font-style: normal;
     font-size: 15px;
-    line-height: 1.5
+    line-height: 2 !important;
 }
 
 .v_nav_pills {
@@ -1945,7 +1945,7 @@ a.home-title {
     font-weight: 500 !important;
     font-style: normal;
     font-size: 15px;
-    line-height: 1.5
+    /* line-height: 1.5 */
 }
 
 .auto_scroll_btns {
